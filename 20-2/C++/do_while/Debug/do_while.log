@@ -1,0 +1,2 @@
+﻿  do_while.cpp
+C:\Users\archa\Desktop\C++ 연습\do_while\do_while.cpp(11,3): error C2146: 구문 오류: ';'이(가) 'cout' 식별자 앞에 없습니다.

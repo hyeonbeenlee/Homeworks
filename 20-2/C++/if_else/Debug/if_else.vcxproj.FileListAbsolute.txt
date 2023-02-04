@@ -1,0 +1,2 @@
+C:\Users\archa\Desktop\C++ 연습\if_else\Debug\20200927.exe
+C:\Users\archa\Desktop\C++ 연습\if_else\Debug\20200927.pdb

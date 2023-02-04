@@ -1,0 +1,2 @@
+C:\Users\archa\Desktop\C++ 연습\HW1_ifelse_rebuilt\Debug\HW1_ifelse_rebuilt.exe
+C:\Users\archa\Desktop\C++ 연습\HW1_ifelse_rebuilt\Debug\HW1_ifelse_rebuilt.pdb

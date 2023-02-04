@@ -1,0 +1,2 @@
+C:\Users\archa\Desktop\C++ 연습\HW1_switchcase\Debug\HW1_switchcase.exe
+C:\Users\archa\Desktop\C++ 연습\HW1_switchcase\Debug\HW1_switchcase.pdb

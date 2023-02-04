@@ -1,0 +1,2 @@
+C:\Users\archa\Desktop\C++ 연습\for\Debug\for.exe
+C:\Users\archa\Desktop\C++ 연습\for\Debug\for.pdb

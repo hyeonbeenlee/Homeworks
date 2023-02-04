@@ -1,0 +1,4 @@
+C:\Users\archa\Desktop\C++\hw2\Debug\hw2.exe
+C:\Users\archa\Desktop\C++\hw2\Debug\hw2.pdb
+C:\Users\archa\Desktop\C++\HW2_matrix_calculator\Debug\hw2.exe
+C:\Users\archa\Desktop\C++\HW2_matrix_calculator\Debug\hw2.pdb
